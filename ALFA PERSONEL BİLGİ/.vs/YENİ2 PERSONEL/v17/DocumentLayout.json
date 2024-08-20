@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HARUN-NB\\Desktop\\C# PROJELER\u0130M\\ALFA PERSONEL B\u0130LG\u0130\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{474E0432-A339-4A25-BC4D-B3F9B2B23A92}|YEN\u01302 PERSONEL\\YEN\u01302 PERSONEL.csproj|C:\\Users\\HARUN-NB\\Desktop\\C# PROJELER\u0130M\\ALFA PERSONEL B\u0130LG\u0130\\yen\u01302 personel\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{474E0432-A339-4A25-BC4D-B3F9B2B23A92}|YEN\u01302 PERSONEL\\YEN\u01302 PERSONEL.csproj|solutionrelative:yen\u01302 personel\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{474E0432-A339-4A25-BC4D-B3F9B2B23A92}|YEN\u01302 PERSONEL\\YEN\u01302 PERSONEL.csproj|c:\\users\\harun-nb\\desktop\\c# projeler\u0130m\\alfa personel b\u0130lg\u0130\\yen\u01302 personel\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{474E0432-A339-4A25-BC4D-B3F9B2B23A92}|YEN\u01302 PERSONEL\\YEN\u01302 PERSONEL.csproj|solutionrelative:yen\u01302 personel\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\HARUN-NB\\Desktop\\C# PROJELER\u0130M\\ALFA PERSONEL B\u0130LG\u0130\\YEN\u01302 PERSONEL\\Form1.cs",
+              "RelativeDocumentMoniker": "YEN\u01302 PERSONEL\\Form1.cs",
+              "ToolTip": "C:\\Users\\HARUN-NB\\Desktop\\C# PROJELER\u0130M\\ALFA PERSONEL B\u0130LG\u0130\\YEN\u01302 PERSONEL\\Form1.cs",
+              "RelativeToolTip": "YEN\u01302 PERSONEL\\Form1.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAAE4AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T08:42:16.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\HARUN-NB\\Desktop\\C# PROJELER\u0130M\\ALFA PERSONEL B\u0130LG\u0130\\YEN\u01302 PERSONEL\\Form1.cs",
+              "RelativeDocumentMoniker": "YEN\u01302 PERSONEL\\Form1.cs",
+              "ToolTip": "C:\\Users\\HARUN-NB\\Desktop\\C# PROJELER\u0130M\\ALFA PERSONEL B\u0130LG\u0130\\YEN\u01302 PERSONEL\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "YEN\u01302 PERSONEL\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T19:57:07.996Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
